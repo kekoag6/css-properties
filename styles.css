@@ -1,0 +1,35 @@
+html {
+  display: block; 
+}
+
+body {
+  background-color: #FFDEAD;
+}
+
+table {
+  border: 2px solid gray;
+  width: 750px; 
+  margin: 0 auto; 
+  border-spacing: 4px; 
+}
+
+.code {
+  font-family: monospace; 
+  background-color: violet; 
+}
+
+h1 {
+  text-align: center; 
+}
+
+h2 {
+  text-align: center; 
+}
+
+th {
+  background-color: beige; 
+}
+
+td {
+  border-top: 1px solid violet; 
+}
